@@ -1,0 +1,10 @@
+from app.models.about import About  # noqa: F401
+from app.models.blog import Blog  # noqa: F401
+from app.models.experience import Experience  # noqa: F401
+from app.models.media import Media  # noqa: F401
+from app.models.message import Message  # noqa: F401
+from app.models.project import Project  # noqa: F401
+from app.models.service import Service  # noqa: F401
+from app.models.skill import Skill  # noqa: F401
+from app.models.testimonial import Testimonial  # noqa: F401
+from app.models.user import User  # noqa: F401
